@@ -1,2 +1,0 @@
-# IDA_MERN_WEBSITES
-IDA Mern Websites
